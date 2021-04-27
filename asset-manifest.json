@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/psreport/static/css/main.fd872663.chunk.css",
+    "main.js": "/psreport/static/js/main.3c7a5a13.chunk.js",
+    "main.js.map": "/psreport/static/js/main.3c7a5a13.chunk.js.map",
+    "runtime-main.js": "/psreport/static/js/runtime-main.d5caf4d1.js",
+    "runtime-main.js.map": "/psreport/static/js/runtime-main.d5caf4d1.js.map",
+    "static/css/2.558413a2.chunk.css": "/psreport/static/css/2.558413a2.chunk.css",
+    "static/js/2.54a5d047.chunk.js": "/psreport/static/js/2.54a5d047.chunk.js",
+    "static/js/2.54a5d047.chunk.js.map": "/psreport/static/js/2.54a5d047.chunk.js.map",
+    "static/js/3.be04449b.chunk.js": "/psreport/static/js/3.be04449b.chunk.js",
+    "static/js/3.be04449b.chunk.js.map": "/psreport/static/js/3.be04449b.chunk.js.map",
+    "index.html": "/psreport/index.html",
+    "static/css/2.558413a2.chunk.css.map": "/psreport/static/css/2.558413a2.chunk.css.map",
+    "static/css/main.fd872663.chunk.css.map": "/psreport/static/css/main.fd872663.chunk.css.map",
+    "static/js/2.54a5d047.chunk.js.LICENSE.txt": "/psreport/static/js/2.54a5d047.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5caf4d1.js",
+    "static/css/2.558413a2.chunk.css",
+    "static/js/2.54a5d047.chunk.js",
+    "static/css/main.fd872663.chunk.css",
+    "static/js/main.3c7a5a13.chunk.js"
+  ]
+}
