@@ -1,0 +1,2 @@
+export const WAGON_FULL_NAME = 'ps-report/wagonInfo/WAGON_FULL_NAME';   // Пользователь указывает полное имя МСД для использования в телеграмме
+export const INSPECTION_AREA = 'ps-report/wagonInfo/INSPECTION_AREA';   // Пользователь указывает участок проверки от станции к станции ля использования в телеграмме
